@@ -1,3 +1,10 @@
 # Slander's BO2 GSC Mods
 
-	Will Update this list of mods when ready for releases.
+	Everything consisted on the site:
+	
+	Slander's Redacted Edition
+	
+	Project AZN (Console)
+	Project AZN (Redacted)
+	
+	All my custom animated darkmatter camos.
